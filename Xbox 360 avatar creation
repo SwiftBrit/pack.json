@@ -1,0 +1,10 @@
+{
+  "name": "Xbox 360 avatar creation",
+  "description": "the theme used in the xbox 360 avatar creator composed by Steve Burke.",
+  "author": "SwiftBrit",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
